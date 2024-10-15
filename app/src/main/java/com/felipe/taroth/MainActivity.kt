@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
             103.dp
         ).apply {
             bottomToBottom = R.id.guidelineH
-            bottomMargin = 0.dp
+            bottomMargin = 110.dp
             marginStart = margin
             startToStart = R.id.guideline_vertical_center
         }
